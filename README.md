@@ -63,8 +63,8 @@ If initialized with `seed.js`, use these out-of-the-box accounts:
 | Role | Email | Password |
 | :--- | :--- | :--- |
 | **Admin** | `admin@gmail.com` | `password123` |
-| **Teacher** | `smith@school.edu` | `password123` |
-| **Student** | `alice@school.edu` | `password123` |
+| **Teacher** | `bijayacse@gmail.com` | `password123` |
+| **Student** | `aryan@gmail.com` | `password123` |
 
 ---
 **Developed by Ayush (@Ayushch27)**
