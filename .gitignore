@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Mac OS
+.DS_Store
+
+# Prisma Database Artifacts
+dev.db
+dev.db-journal
+
+# Environment Variables
+.env
+.env.test
+.env.production
+.env.local
+
+# Vite and Build Outputs
+dist/
+dist-ssr/
+build/
+out/
+coverage/
+
+# IDE Configuration
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
